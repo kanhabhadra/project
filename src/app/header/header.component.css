@@ -1,0 +1,51 @@
+.homenav{
+	background: linear-gradient(to bottom,#211e38,#153e6b);
+}
+.navbrnd{	
+	padding:10px;
+	background:white;
+	color:red;
+	margin-left: 5px;
+	border-radius: 10px;
+}
+.navbrnd:hover{
+	background:red;
+	color:white;
+}
+.jjtravel{
+	font-size:60px;
+}
+
+.navtext{
+	color:white;
+	font-style: italic;
+	border-radius: 10px;
+}
+.navtext:hover{
+	background:white;
+	color:red;
+}
+.active{
+	background:white;
+	color:red;
+	
+}
+.navcardtex{
+	color:#153e6b ;
+	font-style: italic;
+	font-size: 18px;
+	font-weight: bold;
+	border-radius: 10px;
+}
+.navcardtex:hover{
+	background-color: #153e6b;
+	color: white;
+}
+.ticketicon:hover{
+	color: white;
+}
+.crd{
+	top:50px;
+	border-radius: 20px;
+	
+}

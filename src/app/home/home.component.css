@@ -1,0 +1,29 @@
+.maindiv{
+    background-image: url("travels.jpg");
+    background-size: cover;
+    padding: 140px;
+}
+.maindivh1{
+    color :white;
+    font-style: italic;
+    background-color: #25252b;
+    opacity: 0.5;
+    margin:auto;
+}
+.maindivcall{
+    background-color: #f73f1c;
+    color:white;
+    margin: auto;
+}
+.a{
+    
+}
+#enqueryform{
+    background-color: orangered;
+    padding: 15px 0px;
+}
+.forminput{
+    background-color: white;
+    color: black;
+    margin-top: 5px;
+}

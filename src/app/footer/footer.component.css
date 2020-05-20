@@ -1,0 +1,25 @@
+/* You can add global styles to this file, and also import other style files */
+
+#foot{
+    font-size: 40px;
+    color:#e22635; 
+ }
+ .footcont{
+     background-color: #282731;
+ }
+ .footcol1{
+     color:white;
+     text-align: justify;
+ }
+ h6:hover{
+     color:red;
+ }
+ .progress-bar{
+     background-color:#153e6b ;
+ }
+ .footfrm{
+     background-color: #232225;
+     color: gray;
+     border: none;
+     margin-top: 5px;
+ }
